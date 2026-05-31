@@ -41,4 +41,11 @@ docs/         Datasheets and reference papers
 DEVLOG.md     Weekly progress log
 
 ## Status
-Week 1 — Research & planning in progress | Scope: two-channel proportional control
+Week 1 — Research & planning ✅ complete
+Week 2 — Design & parts order ⬜ upcoming
+
+## References
+- Geethanjali P. Myoelectric control of prosthetic hands: state-of-the-art 
+  review. Med Devices (Auckl). 2016;9:247–255.
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC4968852/
+- Ottobock bebionic hand: https://www.ottobock.com/en-us/product/8E72-61083
